@@ -1,0 +1,33 @@
+{
+    "data":
+    [
+      {
+        "img":"../../images/icons/home.png",
+        "title":"一起来学英语吧"
+      },
+      {
+        "img":"../../images/icons/nickname.png",
+        "title":"一起来学英语吧"
+      },
+      {
+        "img":"../../images/icons/scanread.png",
+        "title":"趣味课堂开课啦"
+      },
+      {
+        "img":"../../images/icons/message.png",
+        "title":"一起来学英语吧"
+      },
+      {
+        "img":"../../images/icons/QA.png",
+        "title":"一起来学英语吧"
+      },
+      {
+        "img":"../../images/icons/search.png",
+        "title":"这是一个美好的开始"
+      },
+      {
+        "img":"../../images/icons/course.png",
+        "title":"一起来学英语吧"
+      }
+    ]
+}

@@ -1,0 +1,56 @@
+    {
+    "data":
+    {
+      "course1":[
+        {
+          "title":"XX英语体验课",
+          "startDate":"11.11",
+          "tip":"包邮图书大礼包",
+          "discount":"学习4天 全额返还",
+          "discountPrice":"9.9",
+          "price":"98",
+          "detail":"30分钟后开售，限售3万"
+        },
+        {
+          "title":"XX英语体验课",
+          "startDate":"11.11",
+          "tip":"包邮图书大礼包",
+          "discount":"学习4天 全额返还",
+          "discountPrice":"9.9",
+          "price":"98",
+          "detail":"30分钟后开售，限售3万"
+        }
+      ],
+      "course2":[
+        {
+          "title":"XX英语系统课（适合2-8岁）",
+          "startDate":"11.11",
+          "tip":"新用户优惠200元",
+          "discount":"新用户立减200",
+          "discountPrice":"234",
+          "price":"234",
+          "detail":""
+        },
+        {
+          "title":"XX英语系统课（适合5-10岁）",
+          "startDate":"11.11",
+          "tip":"新用户优惠200元",
+          "discount":"新用户立减200",
+          "discountPrice":"240",
+          "price":"240",
+          "detail":""
+        },
+        {
+          "title":"XX英语系统课（适合8-14岁）",
+          "startDate":"11.11",
+          "tip":"新用户优惠200元",
+          "discount":"新用户立减200",
+          "discountPrice":"240",
+          "price":"240",
+          "detail":""
+        }
+
+      ]
+
+    }
+}
